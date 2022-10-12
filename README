@@ -1,3 +1,4 @@
-une fois le programme lancé (python3 bot.py), taper sur la touche associé à TOGGLE_KEY (ligne 7).
+une fois le programme lancé (python3 bot.py), taper sur la touche associé à start_stop_key() pour lancer l'autoclick, par défaut la touche est "s".
 pour arreter l'autoclick, appuyer de nouveau sur la touche.
-Si il ne s'arrete pas miskin (essaye de fermer ton terminal).
+Pour sortir du programme, taper sur la touche associée à exit_key(), par défaut la touche est "e".
+Vous pouvez également changer le delai entre chaque clic. 
